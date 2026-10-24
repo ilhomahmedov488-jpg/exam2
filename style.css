@@ -263,9 +263,39 @@ border: 1px solid #EFF0F6;
 border-radius: 14px;
 background-color: #FFFFFF;
 color: #211F54;
-
 font-weight: 400;
 font-style: Regular;
 font-size: 18px;
 
+}
+.c26
+{
+    width: 1268px;
+    height: 672px;
+    max-width: 1268px;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 151px;
+}
+.c27
+{
+    width: 1220px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.c28
+{
+
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+width: 475px;
+height: 116px;
+color: #211F54;
 }
