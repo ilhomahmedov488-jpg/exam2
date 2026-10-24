@@ -629,7 +629,7 @@ font-style: Bold;
 font-size: 28px;
 line-height: 36.01px;
 letter-spacing: 0%;
-
+margin-top: 15px;
 }
 .c64{
 width: 304px;
@@ -751,4 +751,20 @@ letter-spacing: 0%;
 }
 .c76{
     margin-top: 18px;
+}
+.c77
+{
+    width: 1220px;
+    max-width: 1220px;
+    height: 115px;
+    margin: auto;
+    display: flex;
+    margin-top: 116px;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #DCDDEB;
+}
+.c78
+{
+    color: #6E7191;
 }
